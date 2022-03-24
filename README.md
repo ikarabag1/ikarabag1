@@ -2,7 +2,7 @@
 - 🦋 🌿 I'm interested in nature, harmony and solving problems.
 - 📚 I'm currently working on a React project.
 - 👩🏻‍ 💻 I am looking for a job.
-- ✨ Here is my LinkedIn https://www.linkedin.com/in/irmakarabag/, my resume [Irmak Karabag - Resume.pdf](https://github.com/ikarabag1/ikarabag1/files/8344235/Irmak.Karabag.-.Resume.pdf). 
+- ✨ Here is my LinkedIn https://www.linkedin.com/in/irmakarabag/, my resume [Irmak Karabag - Resume.pdf](https://github.com/ikarabag1/ikarabag1/files/8344471/Irmak.Karabag.-.Resume.pdf)
 - 📫 Please feel free to reach me via email.
 
 
